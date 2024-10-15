@@ -1,0 +1,17 @@
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorail3_1\Tutorail3_1\bin\Debug\net8.0-windows\Tutorail3_1.exe
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorail3_1\Tutorail3_1\bin\Debug\net8.0-windows\Tutorail3_1.deps.json
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorail3_1\Tutorail3_1\bin\Debug\net8.0-windows\Tutorail3_1.runtimeconfig.json
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorail3_1\Tutorail3_1\bin\Debug\net8.0-windows\Tutorail3_1.dll
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorail3_1\Tutorail3_1\bin\Debug\net8.0-windows\Tutorail3_1.pdb
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorail3_1\Tutorail3_1\obj\Debug\net8.0-windows\Tutorail3_1.Form1.resources
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorail3_1\Tutorail3_1\obj\Debug\net8.0-windows\Tutorail3_1.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorail3_1\Tutorail3_1\obj\Debug\net8.0-windows\Tutorail3_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorail3_1\Tutorail3_1\obj\Debug\net8.0-windows\Tutorail3_1.AssemblyInfoInputs.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorail3_1\Tutorail3_1\obj\Debug\net8.0-windows\Tutorail3_1.AssemblyInfo.cs
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorail3_1\Tutorail3_1\obj\Debug\net8.0-windows\Tutorail3_1.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorail3_1\Tutorail3_1\obj\Debug\net8.0-windows\Tutorail3_1.sourcelink.json
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorail3_1\Tutorail3_1\obj\Debug\net8.0-windows\Tutorail3_1.dll
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorail3_1\Tutorail3_1\obj\Debug\net8.0-windows\refint\Tutorail3_1.dll
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorail3_1\Tutorail3_1\obj\Debug\net8.0-windows\Tutorail3_1.pdb
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorail3_1\Tutorail3_1\obj\Debug\net8.0-windows\Tutorail3_1.genruntimeconfig.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-15\Tutorail3_1\Tutorail3_1\obj\Debug\net8.0-windows\ref\Tutorail3_1.dll
