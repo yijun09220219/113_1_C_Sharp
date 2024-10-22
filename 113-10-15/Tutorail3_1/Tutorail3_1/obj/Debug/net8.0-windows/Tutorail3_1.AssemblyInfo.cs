@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tutorail3_1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69e07c9bf598fa78392116ee7ec1d84dc8dba714")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a57286b7763b90799098d3aaeb453fb7f87b1f04")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tutorail3_1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tutorail3_1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
