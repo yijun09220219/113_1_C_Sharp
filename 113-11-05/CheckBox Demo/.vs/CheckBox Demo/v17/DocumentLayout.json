@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\113-11-05\\CheckBox Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B84714F-6C93-4544-82F8-92B7F3AFA753}|CheckBox Demo\\CheckBox Demo.csproj|c:\\users\\shu\\desktop\\113_1_c_sharp\\113-11-05\\checkbox demo\\checkbox demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B84714F-6C93-4544-82F8-92B7F3AFA753}|CheckBox Demo\\CheckBox Demo.csproj|solutionrelative:checkbox demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\113-11-05\\CheckBox Demo\\CheckBox Demo\\Form1.cs",
+              "RelativeDocumentMoniker": "CheckBox Demo\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\113-11-05\\CheckBox Demo\\CheckBox Demo\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "CheckBox Demo\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:00:41.975Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

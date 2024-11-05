@@ -1,0 +1,17 @@
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBox Demo\CheckBox Demo\bin\Debug\net8.0-windows\CheckBox Demo.exe
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBox Demo\CheckBox Demo\bin\Debug\net8.0-windows\CheckBox Demo.deps.json
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBox Demo\CheckBox Demo\bin\Debug\net8.0-windows\CheckBox Demo.runtimeconfig.json
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBox Demo\CheckBox Demo\bin\Debug\net8.0-windows\CheckBox Demo.dll
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBox Demo\CheckBox Demo\bin\Debug\net8.0-windows\CheckBox Demo.pdb
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBox Demo\CheckBox Demo\obj\Debug\net8.0-windows\CheckBox_Demo.Form1.resources
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBox Demo\CheckBox Demo\obj\Debug\net8.0-windows\CheckBox Demo.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBox Demo\CheckBox Demo\obj\Debug\net8.0-windows\CheckBox Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBox Demo\CheckBox Demo\obj\Debug\net8.0-windows\CheckBox Demo.AssemblyInfoInputs.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBox Demo\CheckBox Demo\obj\Debug\net8.0-windows\CheckBox Demo.AssemblyInfo.cs
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBox Demo\CheckBox Demo\obj\Debug\net8.0-windows\CheckBox Demo.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBox Demo\CheckBox Demo\obj\Debug\net8.0-windows\CheckBox Demo.sourcelink.json
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBox Demo\CheckBox Demo\obj\Debug\net8.0-windows\CheckBox Demo.dll
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBox Demo\CheckBox Demo\obj\Debug\net8.0-windows\refint\CheckBox Demo.dll
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBox Demo\CheckBox Demo\obj\Debug\net8.0-windows\CheckBox Demo.pdb
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBox Demo\CheckBox Demo\obj\Debug\net8.0-windows\CheckBox Demo.genruntimeconfig.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-05\CheckBox Demo\CheckBox Demo\obj\Debug\net8.0-windows\ref\CheckBox Demo.dll
