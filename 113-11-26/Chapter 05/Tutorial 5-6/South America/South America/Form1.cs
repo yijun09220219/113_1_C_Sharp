@@ -21,6 +21,23 @@ namespace South_America
         private void getCountriesButton_Click(object sender, EventArgs e)
         {
             // 這裡是取得國家按鈕的點擊事件處理程式。
+            try 
+            {
+                StreamReader inputFile;
+                string countryName;
+                inputFile = File.OpenText("Countries.txt");
+                countriesListBox.Items.Clear();
+                while (!inputFile.EndOfStream) 
+                {
+                    countryName=inputFile.ReadLine();
+                    countriesListBox.Items.Add(countryName);
+                
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
 
         private void exitButton_Click(object sender, EventArgs e)

@@ -47,3 +47,13 @@ E:\Git Repos\113_1_C_Sharp_Tutorial\Chapter 05\Tutorial 5-5\Friend File\Friend F
 E:\Git Repos\113_1_C_Sharp_Tutorial\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend File.csproj.CoreCompileInputs.cache
 E:\Git Repos\113_1_C_Sharp_Tutorial\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend File.exe
 E:\Git Repos\113_1_C_Sharp_Tutorial\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend File.pdb
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-26\Chapter 05\Tutorial 5-5\Friend File\Friend File\bin\Debug\Friend File.exe.config
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-26\Chapter 05\Tutorial 5-5\Friend File\Friend File\bin\Debug\Friend File.exe
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-26\Chapter 05\Tutorial 5-5\Friend File\Friend File\bin\Debug\Friend File.pdb
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-26\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend File.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-26\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend_File.Form1.resources
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-26\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend_File.Properties.Resources.resources
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-26\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend File.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-26\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend File.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-26\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend File.exe
+C:\Users\shu\Desktop\113_1_C_Sharp\113-11-26\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend File.pdb
