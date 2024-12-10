@@ -51,3 +51,13 @@ D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global
 D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South America.csproj.CoreCompileInputs.cache
 D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South America.exe
 D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South America.pdb
+C:\Users\shu\Desktop\113_1_C_Sharp\113-12-03\Chapter 05\Tutorial 5-6-1\South America\South America\bin\Debug\South America.exe.config
+C:\Users\shu\Desktop\113_1_C_Sharp\113-12-03\Chapter 05\Tutorial 5-6-1\South America\South America\bin\Debug\South America.exe
+C:\Users\shu\Desktop\113_1_C_Sharp\113-12-03\Chapter 05\Tutorial 5-6-1\South America\South America\bin\Debug\South America.pdb
+C:\Users\shu\Desktop\113_1_C_Sharp\113-12-03\Chapter 05\Tutorial 5-6-1\South America\South America\obj\x86\Debug\South America.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-12-03\Chapter 05\Tutorial 5-6-1\South America\South America\obj\x86\Debug\South_America.Form1.resources
+C:\Users\shu\Desktop\113_1_C_Sharp\113-12-03\Chapter 05\Tutorial 5-6-1\South America\South America\obj\x86\Debug\South_America.Properties.Resources.resources
+C:\Users\shu\Desktop\113_1_C_Sharp\113-12-03\Chapter 05\Tutorial 5-6-1\South America\South America\obj\x86\Debug\South America.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-12-03\Chapter 05\Tutorial 5-6-1\South America\South America\obj\x86\Debug\South America.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-12-03\Chapter 05\Tutorial 5-6-1\South America\South America\obj\x86\Debug\South America.exe
+C:\Users\shu\Desktop\113_1_C_Sharp\113-12-03\Chapter 05\Tutorial 5-6-1\South America\South America\obj\x86\Debug\South America.pdb

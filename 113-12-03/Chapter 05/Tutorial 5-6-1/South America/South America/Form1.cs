@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
+using System.Linq.Expressions;
 
 namespace South_America
 {
@@ -25,29 +26,32 @@ namespace South_America
             {
                 StreamReader inputFile;
                 string countryName;
-                if (OpenFile.ShowDialog() == DialogResult.OK)
+                if (openFile.ShowDialog() == DialogResult.OK)
                 {
-                    inputFile = File.OpenText("Countries.txt");
+                    inputFile = File.OpenText(openFile.FileName);
                     countriesListBox.Items.Clear();
                     while (!inputFile.EndOfStream)
                     {
                         countryName = inputFile.ReadLine();
                         countriesListBox.Items.Add(countryName);
                     }
-                    inputFile.Close(); 
+                    inputFile.Close();
                 }
-               
-     
-            catch 
+                else
+                {
+                    MessageBox.Show("未選擇檔案!");
+                }
+            }
+            catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
             }
         }
 
         private void exitButton_Click(object sender, EventArgs e)
-        {
-            // 關閉表單。
-            this.Close();
-        }
-    }
+                {
+                    // 關閉表單。
+                    this.Close();
+                }
+            }
 }
